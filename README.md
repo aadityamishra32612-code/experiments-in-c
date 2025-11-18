@@ -6,11 +6,11 @@
 # EXPERIMENTS IN C
 [PDF FILE](https://github.com/aadityamishra32612-code/experiments-in-c/blob/main/%23%20LIST%20OF%20EXPERIMENTS.pdf) 
 
-[EXPERIMENT🥇1](https://github.com/aadityamishra32612-code/experiments-in-c)
+[EXPERIMENT:1](https://github.com/aadityamishra32612-code/experiments-in-c)
 
-[EXPERIMENT🥈2](https://github.com/aadityamishra32612-code/experiments-in-c/tree/main/exp2)
+[EXPERIMENT:2](https://github.com/aadityamishra32612-code/experiments-in-c/tree/main/exp2)
 
-[EXPERIMENT🥉3](https://github.com/aadityamishra32612-code/experiments-in-c/tree/main/exp3_1)
+[EXPERIMENT:3](https://github.com/aadityamishra32612-code/experiments-in-c/tree/main/exp3_1)
 
 [EXPERIMENT:4](https://github.com/aadityamishra32612-code/experiments-in-c/tree/main/exp3_1/exp3_2)
 

@@ -26,4 +26,6 @@
 
 [EXPERIMENT:9](https://github.com/aadityamishra32612-code/experiments-in-c/tree/main/exp9)
 
+[EXPERIMENT:10](https://github.com/aadityamishra32612-code/experiments-in-c/tree/main/exp10)
+
 [EXPERIMENT:11](https://github.com/aadityamishra32612-code/experiments-in-c/tree/main/exp11)

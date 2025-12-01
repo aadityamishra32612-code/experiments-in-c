@@ -54,6 +54,7 @@ int main() {
 }
 ```
 ### Flowchart:
+```
           ┌──────────────┐
           │     Start     │
           └──────┬───────┘
@@ -101,6 +102,7 @@ int main() {
           ┌──────────────┐
           │     Stop      │
           └──────────────┘
+```
 ### Output:
 ![alt text](image.png)
 ### Q2.Open an existing file and read its content character by character and then close the file.
@@ -158,6 +160,7 @@ int main() {
 }
 ```
 ### Flowchart:
+```
           ┌──────────────┐
           │     Start     │
           └──────┬───────┘
@@ -208,6 +211,7 @@ int main() {
                  │
                  └──► Go back to
                       Read next ch
+```
 ### Output:
 ![alt text](image-1.png)
 ### Q3.Open a file read its content line by line and display each line on the console:
@@ -264,6 +268,7 @@ int main() {
 }
 ```
 ### Flowchart:
+```
                ┌──────────────┐
                │     Start     │
                └───────┬──────┘
@@ -313,6 +318,7 @@ int main() {
       └───────────┬─────────────────┘
                   │
                   └──► Go back to read next line
+```
 ### Output:
 ![alt text](image-2.png)
 *********************************************************

@@ -4,7 +4,7 @@
 ### BATCH:78
 
 # EXPERIMENTS IN C
-[PDF FILE](https://github.com/aadityamishra32612-code/experiments-in-c/blob/main/list_of_experiments_%20in_c.pdf) 
+[PDF FILE](https://github.com/aadityamishra32612-code/experiments-in-c/blob/main/list%20of%20experiments.pdf) 
 
 [EXPERIMENT:1](https://github.com/aadityamishra32612-code/experiments-in-c)
 

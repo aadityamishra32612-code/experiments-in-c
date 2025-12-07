@@ -220,7 +220,7 @@ int main() {
 
 2-Declare a file pointer FILE *fp.
 
-3-Declare a string buffer (e.g., char line[200];).
+3-Declare a string buffer (e.g., char line[200]).
 
 4-Open the file in read mode using:
 fp = fopen("input.txt", "r");
